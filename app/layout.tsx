@@ -5,13 +5,13 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "yourdomain.com is for sale",
-  description: "Interested in buying yourdomain.com? Get in touch with us to make an offer.",
+  title: "canadaai.si is for sale",
+  description: "Interested in buying canadaai.si? Get in touch with us to make an offer.",
   openGraph: {
-    title: "yourdomain.com is for sale",
-    description: "Interested in buying yourdomain.com? Get in touch with us to make an offer.",
-    url: "https://yourdomain.com",
-    siteName: "yourdomain.com",
+    title: "canadaai.si is for sale",
+    description: "Interested in buying canadaai.si? Get in touch with us to make an offer.",
+    url: "https://canadaai.si",
+    siteName: "canadaai.si",
     type: "website",
   },
 };
